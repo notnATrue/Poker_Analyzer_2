@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../PokerAnalizer v 2.0/PokeMe.iml" filepath="$PROJECT_DIR$/../../PokerAnalizer v 2.0/PokeMe.iml" />
       <module fileurl="file://$PROJECT_DIR$/PokeMe.iml" filepath="$PROJECT_DIR$/PokeMe.iml" />
     </modules>
   </component>
